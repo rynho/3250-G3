@@ -9,10 +9,10 @@ THe project requirement and mark criteria is in "3250 Term Project.pdf".
 This project used open data containing all registered Canada car accidents from 1999 - 2014.
 A data dictionary attached as "drivingLegend.pdf", which is also availabe on Kaggle link below.
 
-Link to the Dataset on Kaggle:
+Link to the Dataset on Kaggle:  
 https://www.kaggle.com/tbsteal/canadian-car-accidents-19942014/data
 
-A copy of above data on Google Drive:
+A copy of above data on Google Drive:  
 https://drive.google.com/file/d/1iFEg-BBCzOgUYKXsoLHGitvIv-v4nJ_w/view?usp=drivesdk
 
 ## Task allocation
