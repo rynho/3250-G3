@@ -17,7 +17,8 @@ https://drive.google.com/file/d/1iFEg-BBCzOgUYKXsoLHGitvIv-v4nJ_w/view?usp=drive
 
 ## Task allocation
 Boris drafted a spreadsheet with analytics allocation ("Analytics allocation.xlsx").  
-Please take a look and share your thoughts.  If you are OK to use it, feel free to put your initial in the cells of your choice. We will try to spread a number of analytics between us equally.
+Please take a look and share your thoughts.  If you are OK to use it, feel free to put your initial in the cells of your choice.  
+We will try to spread a number of analytics between us equally.
 
 ## Project code
 All project codes are located in __/jupyterNB/__ folder, and in Jupyter Notebook format (.ipynb).  
