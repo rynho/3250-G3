@@ -1,4 +1,4 @@
-# 3250G3
+e# 3250G3
 This is the repository used by Group #3 for the term project of UofT SCS 3250 course.  
 Team members are Boris, Chaewon, Patricia and Ryan.
 
@@ -32,5 +32,5 @@ The final reprot and presentation are in __/Deliverable/__ folder, and the templ
 
 There are two resources found on Internet (moved to __/Deliverable/Template/\_Supersede/__), one is a sample for thesis report, another for management briefing notes, just for reference. 
 
-All the individual reports contributed by team members are moved to __/Deliverable/Individual/__ folder.
+All the draft version and individual reports contributed by team members are moved to __/Deliverable/\_Supersede/__ folder.
 
