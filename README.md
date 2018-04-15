@@ -1,9 +1,9 @@
-e# 3250G3
+# 3250G3
 This is the repository used by Group #3 for the term project of UofT SCS 3250 course.  
 Team members are Boris, Chaewon, Patricia and Ryan.
 
 ## Project requirement
-THe project requirement and mark criteria is in "3250 Term Project.pdf".
+The project requirement and mark criteria is in "3250 Term Project.pdf".
 
 ## Dataset Used
 This project used open data containing all registered Canada car accidents from 1999 - 2014.  
